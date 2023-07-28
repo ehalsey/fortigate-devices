@@ -1,0 +1,16 @@
+  vd root/0  12:34:56:78:90:ab  gen 1836830  req OHUA/3c
+    created 37841880s  gen 89  seen 734s  idrac31  gen 13054
+    ip 192.168.xx.xx  src mac
+    hardware vendor 'Dell'  src xxxxabc  id 0  weight 102
+    type 'Server'  src xxxxabc  id 0  weight 102
+    family 'Server'  src xxxxabc  id 0  weight 102
+    hardware version 'iDRAC'  src xxxxabc  id 0  weight 102
+  vd root/0  12:34:56:78:90:ac  gen 1806858  req OUA/34
+    created 3052607s  gen 1657156  seen 4s  dsks  gen 12876
+    ip 192.168.xx.xx  src arp
+    hardware vendor 'Apple'  src xxxxabc  id 0  weight 137
+    type 'Audio & Video'  src xxxxabc  id 0  weight 137
+    family 'Media Player'  src xxxxabc  id 0  weight 137
+    os 'tvOS'  src xxxxabc  id 0  weight 137
+    hardware version 'Apple TV 4K'  src xxxxabc  id 0  weight 137
+    host 'of'  src dns
